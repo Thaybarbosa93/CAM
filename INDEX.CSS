@@ -1,0 +1,58 @@
+#titulo {
+color: maroon;
+text-align: center;
+}
+#subtitulo{
+  text-align: center;
+}
+body{
+background-color: #c0c0c0;
+}
+img{
+border:10px solid #242424;
+width: 50%;
+margin-left: 25%;
+margin-right: 50%;
+border-radius:100px;
+}
+P{
+color: black;
+}
+footer{
+color:black;
+}
+h2{
+color:Maroon;
+}
+
+a: link{
+text-decoration: red;
+}
+#meuh2{
+color: black;
+}
+#titulo2{
+  text-align: center;
+
+}
+footer{
+text-align: center;
+}
+#titulos{
+  text-align: center;
+  text-decoration: maroon;
+}
+.box {
+  border: 8px solid maroon;
+  width: 50%;
+  margin-left: 25%;
+  margin-right: 50%;
+  border-radius:100px;
+}
+.box1 {
+  border: 8px solid maroon;
+  width: 50%;
+  margin-left: 25%;
+  margin-right: 50%;
+  border-radius:100px;
+}
